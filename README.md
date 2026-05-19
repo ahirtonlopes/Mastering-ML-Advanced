@@ -32,6 +32,7 @@ Open courseware covering advanced Machine Learning topics — Feature Engineerin
 | # | Notebook | Topics |
 |---|---|---|
 | 01 | `Aula1_Feature_Engineering.ipynb` | Missing values, outliers, encoding, scaling, feature creation, feature selection, pipeline |
+| 02 | `Aula2_CrossValidation_Hyperparameter_Tuning.ipynb` | K-Fold, Stratified K-Fold, metrics (Precision/Recall/AUC-ROC), learning curves, Grid Search, Randomized Search, Optuna |
 
 *More lessons coming soon.*
 
