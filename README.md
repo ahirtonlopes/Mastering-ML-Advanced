@@ -34,6 +34,7 @@ Open courseware covering advanced Machine Learning topics — Feature Engineerin
 | 01 | `Aula1_Feature_Engineering.ipynb` | Missing values, outliers, encoding, scaling, feature creation, feature selection, pipeline |
 | 02 | `Aula2_CrossValidation_Hyperparameter_Tuning.ipynb` | K-Fold, Stratified K-Fold, metrics (Precision/Recall/AUC-ROC), learning curves, Grid Search, Randomized Search, Optuna |
 | 03 | `Aula3_Series_Temporais.ipynb` | Time series decomposition, stationarity, ADF test, ARIMA, Prophet, LSTM, model comparison |
+| 04 | `Aula4_NLP_Aplicado.ipynb` | Text preprocessing, TF-IDF, Naive Bayes, SVM, word embeddings, BiLSTM, DistilBERT fine-tuning |
 
 *More lessons coming soon.*
 
