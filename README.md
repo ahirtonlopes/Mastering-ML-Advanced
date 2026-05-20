@@ -39,6 +39,21 @@ Open courseware covering advanced Machine Learning topics — Feature Engineerin
 
 ---
 
+## ML Engineer Exercises
+
+Hands-on programming exercises for those who want to build ML systems, not just call APIs. Each notebook is self-contained with skeleton code, assertions, and validation cells.
+
+| # | Notebook | Skills |
+|---|---|---|
+| Ex01 | `Exercicios/Ex01_Gradient_Descent.ipynb` | Vanilla GD, Momentum, Adam optimizer from scratch |
+| Ex02 | `Exercicios/Ex02_Algoritmos_do_Zero.ipynb` | KNN, K-Means, Decision Tree from scratch |
+| Ex03 | `Exercicios/Ex03_Custom_Sklearn_API.ipynb` | Custom transformers, stateful fitting, Pipeline + GridSearchCV |
+| Ex04 | `Exercicios/Ex04_Backpropagation.ipynb` | Backprop, forward/backward pass, training loop from scratch |
+| Ex05 | `Exercicios/Ex05_Regularizacao.ipynb` | L1/L2 regularization, Dropout, Early Stopping |
+| Ex06 | `Exercicios/Ex06_Debugging_ML.ipynb` | Data leakage, wrong metrics, target leakage, CV bugs |
+
+---
+
 ## Getting Started
 
 **Option 1 — Google Colab (recommended)**
